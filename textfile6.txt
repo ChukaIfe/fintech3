@@ -19,3 +19,5 @@ a less expensive solution
 I would like to make a first commit
 this is going to be interesting
 i must confess that i feel so good about doing this
+now i want to do a git pull
+this also will be interesting
