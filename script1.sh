@@ -54,3 +54,4 @@ date
 echo "This script is completed"
 fi
 ab
+#This script is written with Bash, it does not require sudo previlages for user.
