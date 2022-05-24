@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+!/usr/bin/bash
 
 #Question 19
 #Write a shell script to accept a file name from user and check whether it's an ordinary file or a directoy.
